@@ -10,4 +10,8 @@ tail -100f /var/log/httpd/access_log
 
 
 
+<<<<<<< HEAD
 this line is required for next try
+=======
+this is the line no. 13
+>>>>>>> eb439f3c826bdb341537626c90716c5337a68a9c
