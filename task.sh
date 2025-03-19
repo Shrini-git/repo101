@@ -7,6 +7,10 @@ cd /var/www/html
 git clone https://github.com/Ironhack-Archive/online-clone-amazon.git
 mv online-clone-amazon/* .
 tail -100f /var/log/httpd/access_log
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of c0a274b (task.sh)
 
 
 
