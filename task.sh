@@ -9,4 +9,4 @@ mv online-clone-amazon/* .
 tail -100f /var/log/httpd/access_log
 
 
-#Added some comments as this is the sample file
+#Added some comments as this is the sample file (this comment is not required)
